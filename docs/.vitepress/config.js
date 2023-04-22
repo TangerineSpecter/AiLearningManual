@@ -152,6 +152,11 @@ const config =
                         items: [
                             { text: '函数', link: '/mathematics/function/index' },
                             { text: '极限', link: '/mathematics/limit/index' },
+                            { text: '无穷', link: '/mathematics/infinite/index' },
+                            { text: '导数', link: '/mathematics/derivative/index' },
+                            { text: '偏导数', link: '/mathematics/partial-derivative/index' },
+                            { text: '方向导数', link: '/mathematics/directional-derivative/index' },
+                            { text: '梯度', link: '/mathematics/gradient/index' },
                         ]
                     }
                 ],
