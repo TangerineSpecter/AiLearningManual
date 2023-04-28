@@ -1,0 +1,1 @@
+import{_ as l,c as i,o as t,R as a}from"./chunks/framework.4daed80e.js";const m=JSON.parse('{"title":"更新记录","description":"","frontmatter":{},"headers":[],"relativePath":"log/index.md"}'),e={name:"log/index.md"},o=a("",5),s=[o];function r(c,n,d,_,h,u){return t(),i("div",null,s)}const v=l(e,[["render",r]]);export{m as __pageData,v as default};

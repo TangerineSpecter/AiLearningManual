@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,z as s}from"./chunks/framework.4daed80e.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"mathematics/index.md"}'),n={name:"mathematics/index.md"},o=s("h1",null,"数学",-1),c=[o];function r(i,d,_,m,p,l){return a(),t("div",null,c)}const u=e(n,[["render",r]]);export{f as __pageData,u as default};
