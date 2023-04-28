@@ -147,6 +147,7 @@ const config =
             sidebar: {
                 '/mathematics/': [
                     { text: '数学符号说明', link: '/mathematics/explanation' },
+                    { text: '公式手册', link: '/mathematics/formulas' },
                     {
                         text: '高等数学基础',
                         items: [
