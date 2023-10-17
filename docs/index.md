@@ -24,8 +24,11 @@ features:
     title: Python基础
     details: 必备的编程能力
   - icon: 🤖
-    title: Ai
+    title: Ai学习
     details: 方向有很多，持续学习...
+  - icon: 🎨
+    title: Ai绘画
+    details: 记录Ai绘图技巧和知识
 ---
 
 

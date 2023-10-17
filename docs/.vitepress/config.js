@@ -140,7 +140,8 @@ const config =
                 { text: '首页', link: '/' },
                 { text: '数学', link: '/mathematics/index' },
                 { text: 'Python', link: '/python/index' },
-                { text: 'Ai', link: '/ai/index' },
+                { text: 'Ai学习', link: '/ai-study/index' },
+                { text: 'Ai绘画', link: '/ai-draw/index' },
                 { text: '学习路线', link: '/study/index' },
                 { text: '更新记录', link: '/log/index' }
             ],
@@ -159,7 +160,27 @@ const config =
                             { text: '方向导数', link: '/mathematics/directional-derivative/index' },
                             { text: '梯度', link: '/mathematics/gradient/index' },
                         ]
-                    }
+                    },
+                    { text: '微积分', link: '/mathematics/calculus/index' },
+                ],
+                '/python/': [
+                    {
+                        text: 'Numpy库',
+                        items: [
+                            { text: '初次使用', link: '/python/numpy/start/index' },
+                        ]
+                    },
+                ],
+                '/ai-draw/': [
+                    {
+                        text: '插件',
+                        items: [
+                            { text: '秋叶工具安装扩展插件', link: '/ai-draw/plugin/install' },
+                            { text: 'ControlNet安装和使用', link: '/ai-draw/plugin/controlNet/start/index' },
+                            { text: 'ControlNet插件应用', link: '/ai-draw/plugin/controlNet/base/index' },
+                            { text: 'ControlNet插件多模型组合应用', link: '/ai-draw/plugin/controlNet/advanced/index' },
+                        ]
+                    },
                 ],
             }
         },
